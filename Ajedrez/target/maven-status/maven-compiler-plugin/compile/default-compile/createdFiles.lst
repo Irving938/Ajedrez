@@ -1,0 +1,14 @@
+com\mycompany\ajedrez\Alfil.class
+com\mycompany\ajedrez\Jugada.class
+com\mycompany\ajedrez\AppAjedrez.class
+com\mycompany\ajedrez\Reina.class
+com\mycompany\ajedrez\PanelTablero$1.class
+com\mycompany\ajedrez\Rey.class
+com\mycompany\ajedrez\Pieza.class
+com\mycompany\ajedrez\ModeloTablero.class
+com\mycompany\ajedrez\Caballo.class
+com\mycompany\ajedrez\Peon.class
+com\mycompany\ajedrez\VentanaAjedrez.class
+com\mycompany\ajedrez\ColorPieza.class
+com\mycompany\ajedrez\PanelTablero.class
+com\mycompany\ajedrez\Torre.class
